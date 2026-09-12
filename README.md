@@ -25,10 +25,10 @@ Basée à **Libreville, Gabon**.
 | Projet | Stack | Démo |
 |--------|--------|------|
 | **ECC_BN** — gestion interne paroisse | Laravel | [bethlehemnouveau.ga](https://bethlehemnouveau.ga) |
-| **WITECH** — plateforme de gestion interne | Django | — |
+| **Gestion Scolarité** | Laravel | [lypeg-upsa.org](https://lypeg-upsa.org) |
+| **WITECH** — plateforme de gestion interne | Django | Réseau interne |
 | **DFM-IT** — gestion interne entreprise | Django | — |
 | **mini-cursor** — éditeur / IA de coding | Web app | — |
-| **Gestion Scolarité** | Laravel | — |
 
 > Liens vers les applications en ligne (pas le code source).
 
