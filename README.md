@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="mco-lockup.png" alt="MCO Solutions Digitales" width="420" />
+</p>
+
 ### Salut, moi c’est Candice 👋
 
 Diplômée d’une **Licence en Génie logiciel** (option Développement web).  
-Fondatrice de **MCO** — entreprise individuelle (développement web, applications de gestion, data).
+Fondatrice de **[MCO Solutions Digitales](https://github.com/amoumich)** — entreprise individuelle (développement web, applications de gestion, data).
 
 Basée à **Libreville, Gabon**.
 
@@ -39,7 +43,7 @@ Basée à **Libreville, Gabon**.
 ### Contact
 
 - GitHub : [amoumich](https://github.com/amoumich)
-- Entreprise : **MCO** (EI)
+- Entreprise : **MCO Solutions Digitales** (EI)
 - Localisation : Libreville, Gabon
 
 *Ouverte aux missions freelance, projets clients et collabs tech.*
