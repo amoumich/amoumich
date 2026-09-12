@@ -27,8 +27,8 @@ Je suis basée à **Libreville, Gabon**.
 | **ECC_BN** (gestion interne paroisse) | Laravel | [bethlehemnouveau.ga](https://bethlehemnouveau.ga) |
 | **Gestion Scolarité** | Laravel | [lypeg-upsa.org](https://lypeg-upsa.org) |
 | **WITECH** (plateforme de gestion interne) | Django | Réseau interne |
-| **DFM-IT** (gestion interne entreprise) | Django | - |
-| **mini-cursor** (éditeur / IA de coding) | Web app | - |
+| **DFM-IT** (gestion interne entreprise) | Django | non publié |
+| **mini-cursor** (éditeur / IA de coding) | Web app | non publié |
 
 Les liens pointent vers les applications en ligne, pas vers le code source.
 
@@ -36,7 +36,7 @@ Les liens pointent vers les applications en ligne, pas vers le code source.
 
 ### Stack
 
-Principale : `Python` · `Django` · `PHP` · `Laravel` · `JavaScript` · `HTML/CSS` · `SQL` · `Git` · `Docker`
+Principale : Python, Django, PHP, Laravel, JavaScript, HTML/CSS, SQL, Git, Docker
 
 Je reste ouverte à d’autres technos selon le projet.
 
@@ -48,4 +48,4 @@ Je reste ouverte à d’autres technos selon le projet.
 - Entreprise : **MCO Solutions Digitales** (EI)
 - Localisation : Libreville, Gabon
 
-Je suis ouverte aux missions freelance, projets clients et collabs tech.
+Je suis ouverte aux missions freelance, aux projets clients et aux collaborations techniques.
