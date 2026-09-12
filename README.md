@@ -15,7 +15,7 @@ Basée à **Libreville, Gabon**.
 
 - Applications web
 - Sites & outils sur mesure pour entreprises et organismes
-- Stack : **Laravel / PHP**, **Django / Python**, **JavaScript**
+- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript** — on peut toucher ailleurs selon le besoin
 - Intérêt pour la **data science** appliquée à la biologie et à la santé
 
 ---
@@ -36,7 +36,9 @@ Basée à **Libreville, Gabon**.
 
 ### Stack
 
-`Python` · `Django` · `PHP` · `Laravel` · `JavaScript` · `HTML/CSS` · `SQL` · `Git` · `Docker`
+Principale : `Python` · `Django` · `PHP` · `Laravel` · `JavaScript` · `HTML/CSS` · `SQL` · `Git` · `Docker`
+
+Ouverte à d’autres technos selon le projet.
 
 ---
 
