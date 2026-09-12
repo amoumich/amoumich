@@ -13,7 +13,7 @@ Basée à **Libreville, Gabon**.
 
 ### Ce que je fais
 
-- Applications web de gestion (devis, RH, inventaire, comptabilité, organisations)
+- Applications web
 - Sites & outils sur mesure pour entreprises et organismes
 - Stack : **Laravel / PHP**, **Django / Python**, **JavaScript**
 - Intérêt pour la **data science** appliquée à la biologie et à la santé
