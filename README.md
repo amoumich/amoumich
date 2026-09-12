@@ -22,15 +22,15 @@ Basée à **Libreville, Gabon**.
 
 ### Projets
 
-| Projet | Stack | Notes |
-|--------|--------|--------|
-| **WITECH** — plateforme de gestion interne | Django | Stage / projet L3 |
-| **DFM-IT** — gestion interne entreprise | Django | RH, devis, inventaire… |
-| **ECC_BN** — gestion interne paroisse | Laravel | Quêtes, programmes, PDF |
-| **mini-cursor** — éditeur / IA de coding | Web app | Expérimentation |
-| **Gestion Scolarité** | Laravel | Scolarité |
+| Projet | Stack | Lien |
+|--------|--------|------|
+| **WITECH** — plateforme de gestion interne | Django | [amoumich/WITECH](https://github.com/amoumich/WITECH) |
+| **DFM-IT** — gestion interne entreprise | Django | [amoumich/dfm-it](https://github.com/amoumich/dfm-it) |
+| **ECC_BN** — gestion interne paroisse | Laravel | [amoumich/ECC_BN](https://github.com/amoumich/ECC_BN) |
+| **mini-cursor** — éditeur / IA de coding | Web app | [amoumich/mini-cursor](https://github.com/amoumich/mini-cursor) |
+| **Gestion Scolarité** | Laravel | [amoumich/Gestion_Scolarite_Laravel](https://github.com/amoumich/Gestion_Scolarite_Laravel) |
 
-> Plusieurs repos clients restent privés. Contact pour demos ou collabs.
+> Repos sous mon compte [amoumich](https://github.com/amoumich). Certains sont privés (clients) — accès sur demande.
 
 ---
 
