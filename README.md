@@ -5,17 +5,17 @@
 ### Salut, moi c’est Candice 👋
 
 Diplômée d’une **Licence en Génie logiciel** (option Développement web).  
-Fondatrice de **[MCO Solutions Digitales](https://github.com/amoumich)** — entreprise individuelle (développement web, applications de gestion, data).
+Fondatrice de **MCO Solutions Digitales** — entreprise individuelle (développement web, applications de gestion, data).
 
 Basée à **Libreville, Gabon**.
 
 ---
 
-### Ce que je fais
+### Activités
 
 - Applications web
 - Sites & outils sur mesure pour entreprises et organismes
-- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript** — on peut toucher ailleurs selon le besoin
+- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript** — ouverture à d’autres technos selon le besoin
 - Intérêt pour la **data science** appliquée à la biologie et à la santé
 
 ---
@@ -38,7 +38,7 @@ Basée à **Libreville, Gabon**.
 
 Principale : `Python` · `Django` · `PHP` · `Laravel` · `JavaScript` · `HTML/CSS` · `SQL` · `Git` · `Docker`
 
-Ouverte à d’autres technos selon le projet.
+Ouverture à d’autres technos selon le projet.
 
 ---
 
@@ -48,4 +48,4 @@ Ouverte à d’autres technos selon le projet.
 - Entreprise : **MCO Solutions Digitales** (EI)
 - Localisation : Libreville, Gabon
 
-*Ouverte aux missions freelance, projets clients et collabs tech.*
+*Missions freelance, projets clients et collabs tech bienvenus.*
