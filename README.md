@@ -2,21 +2,21 @@
   <img src="mco-lockup.png" alt="MCO Solutions Digitales" width="420" />
 </p>
 
-### Salut, moi c’est Candice 👋
+### Salut, moi c’est Candice
 
-Diplômée d’une **Licence en Génie logiciel** (option Développement web).  
-Fondatrice de **MCO Solutions Digitales** — entreprise individuelle (développement web, applications de gestion, data).
+Je suis diplômée d’une **Licence en Génie logiciel** (option Développement web).  
+J’ai fondé **MCO Solutions Digitales**, mon entreprise individuelle, pour le développement web, les applications de gestion et la data.
 
-Basée à **Libreville, Gabon**.
+Je suis basée à **Libreville, Gabon**.
 
 ---
 
-### Activités
+### Ce que je fais
 
 - Applications web
-- Sites & outils sur mesure pour entreprises et organismes
-- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript** — ouverture à d’autres technos selon le besoin
-- Intérêt pour la **data science** appliquée à la biologie et à la santé
+- Sites et outils sur mesure pour entreprises et organismes
+- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript**. Ce sont mes outils de prédilection, mais je peux travailler avec d’autres technologies selon le besoin
+- Je m’intéresse aussi à la **data science** appliquée à la biologie et à la santé
 
 ---
 
@@ -24,13 +24,13 @@ Basée à **Libreville, Gabon**.
 
 | Projet | Stack | Démo |
 |--------|--------|------|
-| **ECC_BN** — gestion interne paroisse | Laravel | [bethlehemnouveau.ga](https://bethlehemnouveau.ga) |
+| **ECC_BN** (gestion interne paroisse) | Laravel | [bethlehemnouveau.ga](https://bethlehemnouveau.ga) |
 | **Gestion Scolarité** | Laravel | [lypeg-upsa.org](https://lypeg-upsa.org) |
-| **WITECH** — plateforme de gestion interne | Django | Réseau interne |
-| **DFM-IT** — gestion interne entreprise | Django | — |
-| **mini-cursor** — éditeur / IA de coding | Web app | — |
+| **WITECH** (plateforme de gestion interne) | Django | Réseau interne |
+| **DFM-IT** (gestion interne entreprise) | Django | - |
+| **mini-cursor** (éditeur / IA de coding) | Web app | - |
 
-> Liens vers les applications en ligne (pas le code source).
+Les liens pointent vers les applications en ligne, pas vers le code source.
 
 ---
 
@@ -38,7 +38,7 @@ Basée à **Libreville, Gabon**.
 
 Principale : `Python` · `Django` · `PHP` · `Laravel` · `JavaScript` · `HTML/CSS` · `SQL` · `Git` · `Docker`
 
-Ouverture à d’autres technos selon le projet.
+Je reste ouverte à d’autres technos selon le projet.
 
 ---
 
@@ -48,4 +48,4 @@ Ouverture à d’autres technos selon le projet.
 - Entreprise : **MCO Solutions Digitales** (EI)
 - Localisation : Libreville, Gabon
 
-*Missions freelance, projets clients et collabs tech bienvenus.*
+Je suis ouverte aux missions freelance, projets clients et collabs tech.
