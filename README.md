@@ -1,32 +1,32 @@
 ### Salut, moi c’est Candice 👋
 
-Étudiante en **Licence 3 Génie logiciel** (option Développement web), je construis des applications web pour entreprises, églises et organismes.
+Diplômée d’une **Licence en Génie logiciel** (option Développement web).  
+Fondatrice de **MCO** — entreprise individuelle (développement web, applications de gestion, data).
 
-En parallèle, je me forme en **data science** appliquée à la biologie et à la santé, avec l’ambition de lancer une activité dans ce domaine à **Libreville, Gabon**.
+Basée à **Libreville, Gabon**.
 
 ---
 
 ### Ce que je fais
 
-- Applications web de gestion (devis, RH, inventaire, comptabilité)
-- Sites & outils sur mesure (événements, organisations)
-- Bases solides en **Laravel / PHP**, **Django / Python**, **JS**
-- Intérêt croissant pour la **data** et la **bio-informatique**
+- Applications web de gestion (devis, RH, inventaire, comptabilité, organisations)
+- Sites & outils sur mesure pour entreprises et organismes
+- Stack : **Laravel / PHP**, **Django / Python**, **JavaScript**
+- Intérêt pour la **data science** appliquée à la biologie et à la santé
 
 ---
 
-### Projets en avant
+### Projets
 
-| Projet | Stack | Statut |
+| Projet | Stack | Notes |
 |--------|--------|--------|
-| [AFTER-EID](https://github.com/amoumich/AFTER-EID) — gestion d’événements | EJS / Node | [Demo](https://after-eid.vercel.app) |
-| **WITECH** — plateforme de gestion interne (stage L3) | Django | Privé |
-| **DFM-IT** — gestion interne entreprise | Django | Privé |
-| **ECC_BN** — gestion interne paroisse | Laravel | Privé |
-| **mini-cursor** — éditeur / IA de coding | Web app | Privé |
-| **Gestion Scolarité** — scolarité Laravel | Laravel | Privé |
+| **WITECH** — plateforme de gestion interne | Django | Stage / projet L3 |
+| **DFM-IT** — gestion interne entreprise | Django | RH, devis, inventaire… |
+| **ECC_BN** — gestion interne paroisse | Laravel | Quêtes, programmes, PDF |
+| **mini-cursor** — éditeur / IA de coding | Web app | Expérimentation |
+| **Gestion Scolarité** | Laravel | Scolarité |
 
-> La plupart des repos clients sont privés. Le détail et les demos se trouvent dans [AFTER-EID](https://after-eid.vercel.app) et sur demande.
+> Plusieurs repos clients restent privés. Contact pour demos ou collabs.
 
 ---
 
@@ -39,6 +39,7 @@ En parallèle, je me forme en **data science** appliquée à la biologie et à l
 ### Contact
 
 - GitHub : [amoumich](https://github.com/amoumich)
+- Entreprise : **MCO** (EI)
 - Localisation : Libreville, Gabon
 
-*Ouverte aux stages, missions freelance et collabs tech.*
+*Ouverte aux missions freelance, projets clients et collabs tech.*
