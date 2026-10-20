@@ -1,21 +1,25 @@
-
-
 ### Salut, moi c’est Candice
 
 Je suis diplômée d’une **Licence en Génie logiciel** (option Développement web).  
-Pendant mes études et en freelance, j’ai conçu et mis en ligne des applications web pour des entreprises, des organismes et une paroisse : gestion interne, scolarité, outils métier.
+Pendant mes études et en freelance, j’ai conçu et mis en ligne des **applications web** pour des entreprises et des organismes : systèmes de gestion interne, plateformes de scolarité et outils métiers sur mesure.
 
-
-Je suis à **Libreville, Gabon**. N’hésite pas à regarder les démos ci-dessous ou à me contacter si tu as un projet.
+Je suis basée à **Libreville, Gabon**. N’hésite pas à explorer mes réalisations ci-dessous ou à me contacter pour collaborer sur vos projets !
 
 ---
 
 ### Ce que je fais
 
-- Applications web
-- Sites et outils sur mesure pour entreprises et organismes
-- Stack principale : **Laravel / PHP**, **Django / Python**, **JavaScript**. Ce sont mes outils de prédilection, mais je peux travailler avec d’autres technologies selon le besoin
-- Je m’intéresse aussi à la **data science** appliquée à la biologie et à la santé
+* **Applications web & logiciels :** Conception de plateformes sur mesure, performantes et adaptées aux besoins des entreprises.
+* **Stack principale :** **Laravel / PHP**, **Django / Python**, **JavaScript**. Ce sont mes outils de prédilection, mais je m'adapte rapidement à d'autres technologies selon le besoin.
+* **Ma vision d'avenir :** Mon but principal est d'évoluer vers la **bioinformatique**. Je souhaite mettre la **data science** et l'**intelligence artificielle** au service de la **biologie**, de la **génétique** et de la **santé** afin de traiter des volumes de données complexes et de devenir **chercheuse scientifique** dans ce domaine, à la croisée du développement informatique et des manipulations en laboratoire.
+
+---
+
+### Discutons de votre projet !
+
+Que vous ayez besoin d'une application web sur mesure pour votre structure ou d'une collaboration technique autour de la donnée, je suis à votre écoute.
+
+* **Email :** michikath.candice@gmail.com
 
 ---
 
