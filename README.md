@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="mco-lockup.png" alt="MCO Solutions Digitales" width="420" />
-</p>
+
 
 ### Salut, moi c’est Candice
 
