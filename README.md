@@ -7,9 +7,8 @@
 Je suis diplômée d’une **Licence en Génie logiciel** (option Développement web).  
 Pendant mes études et en freelance, j’ai conçu et mis en ligne des applications web pour des entreprises, des organismes et une paroisse : gestion interne, scolarité, outils métier.
 
-J’ai fondé **MCO Solutions Digitales**, mon entreprise individuelle. J’y accompagne mes clients sur le développement web, les applications de gestion et, progressivement, la data.
 
-Je suis basée à **Libreville, Gabon**. N’hésite pas à regarder les démos ci-dessous ou à me contacter si tu as un projet.
+Je suis à **Libreville, Gabon**. N’hésite pas à regarder les démos ci-dessous ou à me contacter si tu as un projet.
 
 ---
 
