@@ -1,6 +1,6 @@
-### Salut, moi c’est Candice
+### Bonjour, je suis Michikath Candice OUSSAMATOU 
 
-Je suis diplômée d’une **Licence en Génie logiciel** (option Développement web).  
+Je suis diplômée d’une **Licence en Génie informatique** (option génie logiciel).  
 Pendant mes études et en freelance, j’ai conçu et mis en ligne des **applications web** pour des entreprises et des organismes : systèmes de gestion interne, plateformes de scolarité et outils métiers sur mesure.
 
 Je suis basée à **Libreville, Gabon**. N’hésite pas à explorer mes réalisations ci-dessous ou à me contacter pour collaborer sur vos projets !
@@ -19,7 +19,7 @@ Je suis basée à **Libreville, Gabon**. N’hésite pas à explorer mes réalis
 
 Que vous ayez besoin d'une application web sur mesure pour votre structure ou d'une collaboration technique autour de la donnée, je suis à votre écoute.
 
-* **Email :** michikath.candice@gmail.com
+
 
 ---
 
@@ -31,9 +31,9 @@ Que vous ayez besoin d'une application web sur mesure pour votre structure ou d'
 | **Gestion Scolarité** | Laravel | [lypeg-upsa.org](https://lypeg-upsa.org) |
 | **WITECH** (plateforme de gestion interne) | Django | Réseau interne |
 | **DFM-IT** (gestion interne entreprise) | Django | non publié |
-| **mini-cursor** (éditeur / IA de coding) | Web app | non publié |
+| **Capri** (Ecommerce) | Web app | capri-app.org ( maintenance en cour)|
 
-Les liens pointent vers les applications en ligne, pas vers le code source.
+Les liens pointent vers les applications en ligne.
 
 ---
 
@@ -48,7 +48,7 @@ Je reste ouverte à d’autres technologies selon le projet.
 ### Contact
 
 - GitHub : [amoumich](https://github.com/amoumich)
-- Entreprise : **MCO Solutions Digitales** (entreprise individuelle)
+- * **Email :** michikath.candice@gmail.com
 - Localisation : Libreville, Gabon
 
 Je suis ouverte aux missions freelance, aux projets clients et aux collaborations techniques.
