@@ -31,7 +31,7 @@ Que vous ayez besoin d'une application web sur mesure pour votre structure ou d'
 | **Gestion Scolarité** | Laravel | [lypeg-upsa.org](https://lypeg-upsa.org) |
 | **WITECH** (plateforme de gestion interne) | Django | Réseau interne |
 | **DFM-IT** (gestion interne entreprise) | Django | non publié |
-| **Capri** (Ecommerce) | Django | capri-app.org |
+| **Capri** (Ecommerce) | Django | https://capri-app.org |
 
 Les liens pointent vers les applications en ligne.
 
@@ -48,7 +48,7 @@ Je reste ouverte à d’autres technologies selon le projet.
 ### Contact
 
 - GitHub : [amoumich](https://github.com/amoumich)
-- Email :** michikath.candice@gmail.com
+- Email : michikath.candice@gmail.com
 - Localisation : Libreville, Gabon
 
 Je suis ouverte aux missions freelance, aux projets clients et aux collaborations techniques.
